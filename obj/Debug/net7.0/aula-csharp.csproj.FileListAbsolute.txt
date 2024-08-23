@@ -1,0 +1,14 @@
+C:\aula-csharp\bin\Debug\net7.0\aula-csharp.exe
+C:\aula-csharp\bin\Debug\net7.0\aula-csharp.deps.json
+C:\aula-csharp\bin\Debug\net7.0\aula-csharp.runtimeconfig.json
+C:\aula-csharp\bin\Debug\net7.0\aula-csharp.dll
+C:\aula-csharp\bin\Debug\net7.0\aula-csharp.pdb
+C:\aula-csharp\obj\Debug\net7.0\aula-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\aula-csharp\obj\Debug\net7.0\aula-csharp.AssemblyInfoInputs.cache
+C:\aula-csharp\obj\Debug\net7.0\aula-csharp.AssemblyInfo.cs
+C:\aula-csharp\obj\Debug\net7.0\aula-csharp.csproj.CoreCompileInputs.cache
+C:\aula-csharp\obj\Debug\net7.0\aula-csharp.dll
+C:\aula-csharp\obj\Debug\net7.0\refint\aula-csharp.dll
+C:\aula-csharp\obj\Debug\net7.0\aula-csharp.pdb
+C:\aula-csharp\obj\Debug\net7.0\aula-csharp.genruntimeconfig.cache
+C:\aula-csharp\obj\Debug\net7.0\ref\aula-csharp.dll
